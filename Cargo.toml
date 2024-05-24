@@ -112,7 +112,7 @@ cocoa = "0.25"
 core-foundation = "0.9"
 core-graphics = "0.23"
 dispatch = "0.2"
-scopeguard = "1.2"
+scopeguard = "1.1"
 png = "0.17"
 
 [target."cfg(any(target_os = \"linux\", target_os = \"dragonfly\", target_os = \"freebsd\", target_os = \"openbsd\", target_os = \"netbsd\"))".dependencies]
